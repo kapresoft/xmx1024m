@@ -1,0 +1,12 @@
+-----------------------------------------------------------
+
+ +-+-+-+-+-+-+-+-+
+ |X|m|x|1|0|2|4|m|
+ +-+-+-+-+-+-+-+-+
+
+ :: Spring Boot :: ${spring-boot.formatted-version}
+ ::
+ :: Active Profiles :: ${spring.profiles.active:}
+ ::
+ :: static          :: ${spring.resources.static-locations}
+-----------------------------------------------------------
