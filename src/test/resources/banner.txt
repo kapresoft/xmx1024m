@@ -1,11 +1,10 @@
-
 -----------------------------------------------------------------
 
  +-+-+-+-+-+-+-+-+
  |X|m|x|1|0|2|4|m|
  +-+-+-+-+-+-+-+-+
 
- :: Spring Boot :: ${spring-boot.version}
+ :: Spring Boot (Test) :: ${spring-boot.version}
  ::
  :: profiles.active            :: ${spring.profiles.active:}
  :: resources.static-locations :: ${spring.resources.static-locations}

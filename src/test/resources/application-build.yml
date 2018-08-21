@@ -1,0 +1,8 @@
+#debug: false
+#trace: false
+
+logging.level:
+  com.lagnada.xmx1024: DEBUG
+  org.springframework: WARN
+  org.springframework.web.servlet.mvc.method.annotation: INFO
+  org.springframework.web.servlet.handler: INFO
